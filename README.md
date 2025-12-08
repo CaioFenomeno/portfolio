@@ -36,7 +36,7 @@ npm run dev
 🌍 Deploy
 O projeto está disponível online em:
 
-👉 LINK DO VERSEL:
+👉 LINK DO VERSEL:https://portfolio-one-woad-77.vercel.app/
 
 📦 Projetos apresentados
 🍽 Restaurant Online
@@ -54,7 +54,7 @@ GitHub: https://github.com/CaioFenomeno/site-de-viagem
 📬 Contato
 GitHub: https://github.com/CaioFenomeno
 
-Email: seuemail@gmail.com
+Email: caiosamdim@gmail.com
 
-LinkedIn: seu link aqui
+LinkedIn: 
 
