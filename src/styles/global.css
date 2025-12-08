@@ -1,0 +1,53 @@
+/* ============================
+   GLOBAL STYLES – DARK NEON SOFT
+================================ */
+
+/* Reset geral */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Fonte e cores principais */
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #0d1117; /* fundo escuro */
+  color: #e6e6e6; /* texto principal */
+}
+
+/* Links sem sublinhado */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  color: #e6e6e6;
+}
+
+/* Parágrafos */
+p {
+  color: #9b9b9b; /* texto secundário */
+}
+
+/* Botões padrão */
+button, .btn {
+  background: #00e0ff;
+  color: #0d1117;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+button:hover, .btn:hover {
+  background: #00b8d0;
+}
+
+/* Container padrão para seções */
+section {
+  padding: 60px 20px;
+}

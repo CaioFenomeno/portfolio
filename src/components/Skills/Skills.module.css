@@ -1,0 +1,28 @@
+.skills {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.skills h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.icon {
+  font-size: 3rem;
+  color: #00e0ff; /* cor padrão para o tema do portfolio */
+  transition: transform 0.3s, color 0.3s;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+  color: #ffffff;
+}
